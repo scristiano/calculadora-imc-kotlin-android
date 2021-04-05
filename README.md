@@ -15,8 +15,6 @@ Assim, um adulto de 1,75 m que pesa 67 kg tem IMC 21,88, considerado adequado. N
 
 Se esse adulto de 1,75 m chegar aos 82 kg (IMC de 26,78), será considerado com sobrepeso. Já o sênior de 1,75 m e 82 kg apresentará peso ideal.
 
-A diferença se deve às modificações que acontecem no processo de envelhecimento, que podem estar relacionadas às doenças, ao estilo de vida e ao próprio avanço da idade, dizem as nutricionistas Ligiana Pires Corona, professora do curso de nutrição e do mestrado em gerontologia da Unicamp (Universidade Estadual de Campinas), e Larissa Hara, mestranda em ciências da nutrição e do esporte e metabolismo da mesma universidade.
-
 ![Tela Inicial](./img/01.png)
 
 ![Apresentação do Resultado](./img/02.png)
